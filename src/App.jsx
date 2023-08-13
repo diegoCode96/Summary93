@@ -5,7 +5,7 @@ function App() {
   return (
     <main className="bg-PaleBlue min-h-screen grid place-content-center">
       <img className="absolute max-[375px]:hidden" src="images/pattern-background-desktop.svg" alt="" />
-      <article className="bg-VeryPaleBlue w-[20rem] rounded-3xl overflow-hidden celu:w-[22rem] z-10 ">
+      <article className="bg-VeryPaleBlue w-[20rem] rounded-3xl overflow-hidden celu:w-[25rem] z-10 ">
         <div>
           <img src="images/illustration-hero.svg" alt="" />
         </div>
